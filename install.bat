@@ -14,5 +14,11 @@ set GOPATH=%~dp0
 gofmt -w "src/q1"
 go install "q1"
 
+gofmt -w "src/minstack"
+go install "minstack"
+
+gofmt -w "src/q3"
+go install "q3"
+
 :end
 echo finished

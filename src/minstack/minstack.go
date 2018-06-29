@@ -13,14 +13,14 @@ var ErrType = errors.New("type error")
 // MinStack has Min func.
 type MinStack struct {
 	dataSk *stack.Stack
-	minSk *stack.Stack
+	minSk  *stack.Stack
 }
 
 // NewMinStack creates a new MinStack instance.
 func NewMinStack() *MinStack {
 	return &MinStack{
 		dataSk: stack.NewStack(),
-		minSk: stack.NewStack(),
+		minSk:  stack.NewStack(),
 	}
 }
 
