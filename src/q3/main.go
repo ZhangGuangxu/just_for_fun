@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// 一个整型数组，里面有n个数，包括正数、0、负数。求和最大的子数组。要求算法时间复杂度O(n)
+// 一个整型数组，里面有n个数，包括正数、0、负数。找出和最大的子数组。要求算法时间复杂度O(n)
 
 var errEmptyArray = errors.New("empty array")
 
