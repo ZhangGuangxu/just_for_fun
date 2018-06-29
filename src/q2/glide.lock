@@ -1,0 +1,6 @@
+hash: 93d15c8dbe1c39050af430ce1c66efe1742ec938f61c2e8451b2820e2004937e
+updated: 2018-06-29T10:50:33.8433519+08:00
+imports:
+- name: github.com/ZhangGuangxu/stack
+  version: 8e44bf026b53c70d470165fefdc0ea70a6daf771
+testImports: []

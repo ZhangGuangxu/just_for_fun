@@ -1,0 +1,4 @@
+package: q2
+import:
+- package: github.com/ZhangGuangxu/stack
+  version: 8e44bf026b53c70d470165fefdc0ea70a6daf771
