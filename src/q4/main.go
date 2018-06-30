@@ -37,6 +37,5 @@ func DelSlistNode(i *slist.Item) bool {
 
 	i.Data = n.Data
 	i.Next = n.Next
-	n.Next = nil
 	return true
 }
