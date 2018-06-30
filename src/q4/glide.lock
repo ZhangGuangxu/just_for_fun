@@ -1,0 +1,8 @@
+hash: 6fc9ad37266b5957a7962dca4f7aefb4c2b3e04957e65ad10644ac9139b59c56
+updated: 2018-06-30T19:58:17.135507+08:00
+imports:
+- name: github.com/ZhangGuangxu/gds
+  version: 7b8118256c97b91380e3b9e7fc84aea0ab1a5308
+  subpackages:
+  - src/slist
+testImports: []

@@ -20,5 +20,11 @@ go install "minstack"
 gofmt -w "src/q3"
 go install "q3"
 
+gofmt -w "src/queue_with_two_stack"
+go install "queue_with_two_stack"
+
+gofmt -w "src/q4"
+go install "q4"
+
 :end
 echo finished

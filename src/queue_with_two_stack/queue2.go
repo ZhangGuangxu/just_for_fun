@@ -6,13 +6,13 @@ import (
 
 type queue2 struct {
 	skPush *stack.Stack
-	skPop *stack.Stack
+	skPop  *stack.Stack
 }
 
 func newQueue2() *queue2 {
 	return &queue2{
 		skPush: stack.NewStack(),
-		skPop: stack.NewStack(),
+		skPop:  stack.NewStack(),
 	}
 }
 

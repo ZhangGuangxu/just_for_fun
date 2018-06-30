@@ -1,0 +1,6 @@
+package: q4
+import:
+- package: github.com/ZhangGuangxu/gds
+  subpackages:
+  - src/slist
+  version: 7b8118256c97b91380e3b9e7fc84aea0ab1a5308
