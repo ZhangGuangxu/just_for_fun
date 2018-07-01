@@ -8,3 +8,4 @@ q3: 一个整型数组，里面有n个数，包括正数、0、负数。找出�
 q4: PCIG-P81  
 minstack: PCIG-P1  
 queue_with_two_stack: PCIG-P5  
+q5: PCIG-P79  

@@ -26,5 +26,8 @@ go install "queue_with_two_stack"
 gofmt -w "src/q4"
 go install "q4"
 
+gofmt -w "src/q5"
+go install "q5"
+
 :end
 echo finished

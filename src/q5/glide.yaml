@@ -1,0 +1,6 @@
+package: q5
+import:
+- package: github.com/ZhangGuangxu/gds
+  subpackages:
+  - src/slist
+  version: ef9710d4a34d7dc6c884614b2eb38844e277c5d4
